@@ -1,0 +1,5 @@
+vkmini>=0.1.1
+mutagen==1.45.1
+telethon==1.24.0
+requests==2.27.1
+aiohttp==3.8.1

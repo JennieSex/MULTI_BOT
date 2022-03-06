@@ -1,0 +1,43 @@
+{
+    "prefix": "л ",
+    "farm": {
+        "on": false,
+        "soft": false,
+        "last_time": 0
+    },
+    "catcher": 2,
+    "friends_add": false,
+    "dogs_del": true,
+    "ignore_list": [
+        "465332561"
+    ],
+    "del_requests": true,
+    "online": true,
+    "offline": false,
+    "templates_bind": 0,
+    "trusted_users": [
+        329811206,
+        403485882,
+        572835497
+    ],
+    "delete": {
+        "deleter": "дд",
+        "editor": "дима выебет тебя нежно",
+        "editcmd": true,
+        "old_type": true
+    },
+    "mentions": {
+        "all": false,
+        "mine": false
+    },
+    "leave_chats": false,
+    "autostatus_on": false,
+    "autostatus_format": "{время час}:{время минуты}, Дима всё ещё спит😴",
+    "repeater": {
+        "on": true,
+        "prefix": ","
+    },
+    "added_by": 83759702,
+    "user_id": 409591142,
+    "vk_longpoll": true
+}

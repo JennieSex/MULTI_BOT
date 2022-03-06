@@ -1,0 +1,51 @@
+{
+    "prefix": "кис ",
+    "farm": {
+        "on": false,
+        "soft": false,
+        "last_time": 0
+    },
+    "catcher": 2,
+    "friends_add": false,
+    "dogs_del": false,
+    "ignore_list": [
+        "565934609"
+    ],
+    "del_requests": false,
+    "online": false,
+    "offline": false,
+    "templates_bind": 0,
+    "trusted_users": [
+        516858076,
+        267531315,
+        499084568,
+        340265811,
+        576842834,
+        284223478,
+        462088299,
+        679629827,
+        202228506,
+        445371661,
+        695403547
+    ],
+    "delete": {
+        "deleter": "кись",
+        "editor": "пшлнхй",
+        "editcmd": true,
+        "old_type": true
+    },
+    "mentions": {
+        "all": false,
+        "mine": false
+    },
+    "leave_chats": false,
+    "autostatus_on": false,
+    "autostatus_format": "",
+    "repeater": {
+        "on": true,
+        "prefix": "кис"
+    },
+    "added_by": 83759702,
+    "user_id": 411634368,
+    "vk_longpoll": true
+}

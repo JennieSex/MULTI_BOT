@@ -1,0 +1,126 @@
+2022-03-06 14:16:59 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 14:17:00 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 15:17:06 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 15:17:06 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 16:17:11 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 16:17:11 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 17:17:16 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 17:17:16 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 18:17:21 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 18:17:22 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 19:17:27 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 19:17:27 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 20:17:32 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 20:17:32 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 21:17:36 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 21:17:36 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 22:17:41 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 22:17:41 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 23:00:57 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:00:57 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/messages.send?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'peer_id': 700586718, 'message': 'Ты кто вообще такой?', 'message_id': 0, 'delete_for_all': 1, 'random_id': 0}
+2022-03-06 23:00:57 | INFO (Группа-бот) Запрос messages.send выполнен
+2022-03-06 23:00:57 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:00:57 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:05:31 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/messages.send?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'message': 'Новый [id700586718|рег] от vk.me/id83759702', 'peer_id': 83759702, 'random_id': 0}
+2022-03-06 23:05:31 | INFO (Группа-бот) Запрос messages.send выполнен
+2022-03-06 23:05:31 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:06:31 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:06:34 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/messages.send?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'peer_id': 700586718, 'message': '✅ Запущено!', 'message_id': 0, 'delete_for_all': 1, 'random_id': 0}
+2022-03-06 23:06:34 | INFO (Группа-бот) Запрос messages.send выполнен
+2022-03-06 23:06:34 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:06:34 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:12:13 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/messages.send?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'message': 'Новый [id700608161|рег] от vk.me/id83759702', 'peer_id': 83759702, 'random_id': 0}
+2022-03-06 23:12:13 | INFO (Группа-бот) Запрос messages.send выполнен
+2022-03-06 23:12:13 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:13:15 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:13:28 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:13:28 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/messages.send?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'peer_id': 700608161, 'message': '✅ Запущено!', 'message_id': 0, 'delete_for_all': 1, 'random_id': 0}
+2022-03-06 23:13:28 | INFO (Группа-бот) Запрос messages.send выполнен
+2022-03-06 23:13:28 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:13:28 | ERROR (Группа-бот) Ошибка обработки сообщения:
+Traceback (most recent call last):
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 31, in group_bot_runner
+    await handle(update)
+  File "/root/LP/Bot2/vk/group_bot/bot.py", line 39, in handle
+    update.lowered = update.message.text.lower()
+AttributeError: 'Update' object has no attribute 'message'
+
+2022-03-06 23:18:04 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 23:18:04 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен

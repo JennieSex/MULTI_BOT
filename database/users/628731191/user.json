@@ -1,0 +1,58 @@
+{
+    "prefix": "у ",
+    "farm": {
+        "on": false,
+        "soft": false,
+        "last_time": 0
+    },
+    "catcher": 2,
+    "friends_add": true,
+    "dogs_del": true,
+    "ignore_list": [
+        "494209863",
+        "432108298"
+    ],
+    "del_requests": false,
+    "online": false,
+    "offline": false,
+    "templates_bind": 0,
+    "trusted_users": [
+        600211850,
+        155661141,
+        620624917,
+        593389326,
+        651895091,
+        252805410,
+        482782061,
+        673925981,
+        655730010,
+        491366162,
+        350935706,
+        633895820,
+        606281323,
+        644010116,
+        485910043,
+        635078823,
+        541170794
+    ],
+    "delete": {
+        "deleter": "дд",
+        "editor": "&#8300;",
+        "editcmd": true,
+        "old_type": true
+    },
+    "mentions": {
+        "all": false,
+        "mine": false
+    },
+    "leave_chats": false,
+    "autostatus_on": false,
+    "autostatus_format": "",
+    "repeater": {
+        "on": true,
+        "prefix": "3"
+    },
+    "added_by": 83759702,
+    "user_id": 628731191,
+    "vk_longpoll": true
+}

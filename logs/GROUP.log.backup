@@ -1,0 +1,20 @@
+L = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 01:26:28 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 02:26:35 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 02:26:35 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 03:26:43 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 03:26:43 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 04:26:49 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 04:26:49 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 05:26:55 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 05:26:55 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 06:27:00 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 06:27:00 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 07:27:06 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 07:27:06 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 07:45:22 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 07:45:22 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 08:45:28 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 08:45:28 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен
+2022-03-06 09:45:33 | DEBUG (Группа-бот) URL = "https://api.vk.com/method/groups.getLongPollServer?v=5.110&access_token=41500650af2dd1084d8bafb12eced3a3f936773f312a372bbbc03083b2d7be77d2895f9ff8a04dad11cf1&lang=ru" Data = {'group_id': 207355051}
+2022-03-06 09:45:33 | INFO (Группа-бот) Запрос groups.getLongPollServer выполнен

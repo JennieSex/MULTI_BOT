@@ -1,0 +1,93 @@
+{
+    "apps": [
+        {
+            "name": "ASuka LONGPOLL module 1",
+            "script": "./longpoll/lp",
+            "args": "55011",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 2",
+            "script": "./longpoll/lp",
+            "args": "55022",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 3",
+            "script": "./longpoll/lp",
+            "args": "55033",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 6",
+            "script": "./longpoll/lp",
+            "args": "55044",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 4",
+            "script": "./longpoll/lp",
+            "args": "55055",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 5",
+            "script": "./longpoll/lp",
+            "args": "55066",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 7",
+            "script": "./longpoll/lp",
+            "args": "55077",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 8",
+            "script": "./longpoll/lp",
+            "args": "55088",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 9",
+            "script": "./longpoll/lp",
+            "args": "55099",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka LONGPOLL module 10",
+            "script": "./longpoll/lp",
+            "args": "55110",
+            "kill_timeout": 500,
+            "error_file": "/dev/null",
+            "max_memory_restart": "50M"
+        },
+        {
+            "name": "ASuka MAIN module",
+            "script": "./RBClub.py",
+            "args": "-db 55101 -lp1 55011 -lp2 55022 -lp3 55033 -lp4 55044 -lp5 55055 -lp6 55066 -lp7 55077 -lp8 55088 -lp9 55099 -lp10 55110",
+            "kill_timeout": 5000,
+            "interpreter": "python3.8",
+            "error_file": "/dev/null",
+            "max_memory_restart": "300M"
+        }
+    ]
+}

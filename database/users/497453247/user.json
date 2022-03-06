@@ -1,0 +1,41 @@
+{
+    "prefix": ".а ",
+    "farm": {
+        "on": false,
+        "soft": false,
+        "last_time": 0
+    },
+    "catcher": 2,
+    "friends_add": false,
+    "dogs_del": false,
+    "ignore_list": [],
+    "del_requests": false,
+    "online": false,
+    "offline": false,
+    "templates_bind": 0,
+    "trusted_users": [
+        494453646,
+        83759702,
+        497453247
+    ],
+    "delete": {
+        "deleter": "дд",
+        "editor": "пошел нахуй",
+        "editcmd": true,
+        "old_type": true
+    },
+    "mentions": {
+        "all": false,
+        "mine": false
+    },
+    "leave_chats": false,
+    "autostatus_on": false,
+    "autostatus_format": "",
+    "repeater": {
+        "on": true,
+        "prefix": "а"
+    },
+    "added_by": 83759702,
+    "user_id": 497453247,
+    "vk_longpoll": true
+}

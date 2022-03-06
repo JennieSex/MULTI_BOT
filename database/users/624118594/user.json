@@ -1,0 +1,43 @@
+{
+    "prefix": "с ",
+    "farm": {
+        "on": true,
+        "soft": false,
+        "last_time": 1646573940.4399066
+    },
+    "catcher": 2,
+    "friends_add": true,
+    "dogs_del": false,
+    "ignore_list": [],
+    "del_requests": false,
+    "online": false,
+    "offline": false,
+    "templates_bind": 0,
+    "trusted_users": [
+        156680078,
+        583057719,
+        501536560,
+        449791274,
+        411000685
+    ],
+    "delete": {
+        "deleter": "дд",
+        "editor": "🔞тебе показалось забудь🔞",
+        "editcmd": true,
+        "old_type": true
+    },
+    "mentions": {
+        "all": false,
+        "mine": false
+    },
+    "leave_chats": false,
+    "autostatus_on": false,
+    "autostatus_format": "",
+    "repeater": {
+        "on": true,
+        "prefix": "2"
+    },
+    "added_by": 83759702,
+    "user_id": 624118594,
+    "vk_longpoll": true
+}
